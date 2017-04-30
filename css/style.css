@@ -8,6 +8,12 @@ h1
   color: Pink;
 }
 
+h2
+{
+  font-family: cursive;
+  color: rgb(78, 22, 140);
+}
+
 p
 {
   color: blue;
